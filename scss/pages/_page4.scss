@@ -1,0 +1,28 @@
+.page4 {
+  .group-contact {
+    width: 85%;
+    margin: auto;
+
+    .wrapper-contact {
+      padding: rem(4px);
+      border-radius: rem(10px);
+      margin: rem(30px) 0;
+      background-color: white;
+      box-shadow: 7px 7px 5px rgba(26, 24, 24, 0.75);
+    }
+
+    .contact-item {
+      font-family: "Arimo-Bold";
+      border: 1px solid $primary-text-color;
+      border-radius: rem(10px);
+      padding: rem(6px) rem(12px);
+
+      h4 {
+        font-family: 'Arimo-Bold';
+        font-size: rem(20px);
+        color: $primary-text-color-dark;
+      }
+
+    }
+  }
+}

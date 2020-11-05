@@ -1,0 +1,25 @@
+.page2 {
+  .story-block {
+    padding: rem(20px);
+
+    .story-title {
+      font-family: 'Arimo-Bold';
+      font-size: rem(20px);
+      margin-bottom: rem(20px);
+    }
+
+    .story-content {
+      p {
+        font-family: 'Arimo-Bold';
+        font-size: rem(10.5px);
+      }
+    }
+  }
+
+  .back-btn {
+    font-family: 'Arimo-Bold';
+    font-size: rem(20px);
+    color: black;
+    text-decoration: none;
+  }
+}
