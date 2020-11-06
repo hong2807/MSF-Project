@@ -44,13 +44,6 @@
   font-size: 0.65625rem;
 }
 
-.page2 .back-btn {
-  font-family: 'Arimo-Bold';
-  font-size: 1.25rem;
-  color: black;
-  text-decoration: none;
-}
-
 .page3 .group-button {
   width: 70%;
   margin: auto;
@@ -164,14 +157,6 @@
   margin-bottom: 1.875rem;
 }
 
-.page8 .sub-text a {
-  display: block;
-  font-family: 'Arimo-Regular';
-  font-size: 0.90625rem;
-  color: #030504;
-  text-decoration: none;
-}
-
 .page9 .title p {
   font-family: 'Montserrat-ExtraBold';
   font-size: 0.9375rem;
@@ -207,15 +192,6 @@
 
 .page10 .wrapper-btn {
   margin-bottom: 0.625rem;
-}
-
-.page10 .sub-text a {
-  display: block;
-  font-family: 'Arimo-Regular';
-  font-size: 1.25rem;
-  font-size: 0.90625rem;
-  color: #030504;
-  text-decoration: none;
 }
 
 body {
@@ -341,5 +317,12 @@ body {
   font-family: "Arimo-Bold";
   border: 1px solid #7a4e9a;
   border-radius: 0.625rem;
+}
+
+.back-btn {
+  font-family: 'Arimo-Regular';
+  font-size: 1.25rem;
+  color: #030504;
+  text-decoration: none;
 }
 /*# sourceMappingURL=main.css.map */

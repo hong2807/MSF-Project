@@ -127,4 +127,13 @@ body {
       border: 1px solid $primary-text-color;
       border-radius: rem(10px);
     }
+
+    
+  }
+
+  .back-btn {
+    font-family: 'Arimo-Regular';
+    font-size: rem(20px);
+    color: $color-black-0;
+    text-decoration: none;
   }
